@@ -102,14 +102,14 @@ const About = ({ darkMode }) => {
             <Col lg={12} align='left'>
                <Card className="skill-nbcard">
                            
-                    <Card.Header><div className="display-3 hello"><h5>What is GC and it's establishment </h5></div></Card.Header>      <Card.Body> 
+                    <Card.Header><div class= "lead"><h5>What is GC and it's establishment </h5></div></Card.Header>      <Card.Body> 
                      <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
 <br></br>
 <br></br>
  <br></br>
 
  </Card.Text>
-                            </Card.Body></Card>
+                            </Card.Body> </Card>
             </Col>
  </Row> &nbsp;
 <Row>   <Col lg={12} align='left'>
