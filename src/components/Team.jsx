@@ -158,7 +158,7 @@ const Team = ({ darkMode }) => {
 <li>Sherlock, Iran</li>
 
 <li class={darkMode? "text-secondary" : "text-light"}>Amar_04, India</li>
-<li>EmilXM, USA</li>
+<li>EmilXM, Azerbaijan</li>
 
 
 <li class={darkMode? "text-secondary" : "text-light"}>pog, USA</li>
