@@ -119,6 +119,7 @@ const About = ({ darkMode }) => {
                      <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
 <br></br>
 <br></br>
+ <br></br>
 
 
  </Card.Text>
@@ -139,7 +140,7 @@ const About = ({ darkMode }) => {
                                      
                                      
                                      
-                                     <Card.Text align="left">
+                                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
 <br></br>
 <br></br>
  <br></br>
@@ -155,7 +156,7 @@ const About = ({ darkMode }) => {
                <Card className="skill-nbcard">
                              
                                    <Card.Header><div class="lead"><h5>Some fun events</h5></div></Card.Header>
-                                    <Card.Body>   <Card.Text align="left">
+                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
 <br></br>
 <br></br>
  <br></br>
@@ -169,7 +170,7 @@ const About = ({ darkMode }) => {
                <Card className="skill-nbcard">
                              
                                    <Card.Header><div class="lead"><h5>How can I report a error if I found a error in material</h5></div></Card.Header>
-                                    <Card.Body>   <Card.Text align="left">
+                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
 <br></br>
 <br></br>
  <br></br>
@@ -183,7 +184,7 @@ const About = ({ darkMode }) => {
                <Card className="skill-nbcard">
                              
                                    <Card.Header><div class="lead"><h5>How can we contact GC staff</h5></div></Card.Header>
-                                    <Card.Body>   <Card.Text align="left">
+                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
 <br></br>
 <br></br>
  <br></br>
