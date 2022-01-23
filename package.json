@@ -45,7 +45,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://metrixmath-oly.vercel.app/",
+  "homepage": "https://gcurvature.vercel.app/",
   "eslintConfig": {
     "extends": [
       "react-app",
