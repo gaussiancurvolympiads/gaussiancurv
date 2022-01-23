@@ -104,7 +104,7 @@ const About = ({ darkMode }) => {
             <Col lg={12} align='left'>
                <Card className="skill-nbcard">
                            
-                    <Card.Header><div class= "lead"><h5>What is GC and it's establishment <h5></div></Card.Header>      <Card.Body> 
+                    <Card.Header><div class= "lead"><h5>What is GC and it's establishment </h5></div></Card.Header>      <Card.Body> 
                      <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
 <br></br>
 <br></br>
@@ -117,7 +117,7 @@ const About = ({ darkMode }) => {
 <Row>   <Col lg={12} align='left'>
                <Card className="skill-nbcard">
                            
-                    <Card.Header><div class= "lead"><h5>Starting Works and Experience<h5></div></Card.Header>      <Card.Body> 
+                    <Card.Header><div class= "lead"><h5>Starting Works and Experience</h5></div></Card.Header>      <Card.Body> 
                      <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
 <br></br>
 <br></br>
@@ -150,7 +150,7 @@ const About = ({ darkMode }) => {
   <Col lg={12} align='left'>
                <Card className="skill-nbcard">
                              
-                                   <Card.Header><div class="lead"><h5>Some fun events<h5></div></Card.Header>
+                                   <Card.Header><div class="lead"><h5>Some fun events</h5></div></Card.Header>
                                     <Card.Body>   <Card.Text align="left">
 <br></br>
 
@@ -162,7 +162,7 @@ const About = ({ darkMode }) => {
   <Col lg={12} align='left'>
                <Card className="skill-nbcard">
                              
-                                   <Card.Header><div class="lead"><h5>How can I report a error if I found a error in material<h5></div></Card.Header>
+                                   <Card.Header><div class="lead"><h5>How can I report a error if I found a error in material</h5></div></Card.Header>
                                     <Card.Body>   <Card.Text align="left">
 <br></br>
 
@@ -174,7 +174,7 @@ const About = ({ darkMode }) => {
                                    <Col lg={12} align='left'>
                <Card className="skill-nbcard">
                              
-                                   <Card.Header><div class="lead"><h5>How can we contact GC staff<h5></div></Card.Header>
+                                   <Card.Header><div class="lead"><h5>How can we contact GC staff</h5></div></Card.Header>
                                     <Card.Body>   <Card.Text align="left">
 <br></br>
 
