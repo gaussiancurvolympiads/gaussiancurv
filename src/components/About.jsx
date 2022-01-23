@@ -119,7 +119,7 @@ const About = ({ darkMode }) => {
                      <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
 <br></br>
 <br></br>
- <br></br>
+
 
  </Card.Text>
                             </Card.Body></Card>
