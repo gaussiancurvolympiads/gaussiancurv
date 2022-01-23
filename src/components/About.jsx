@@ -135,8 +135,14 @@ const About = ({ darkMode }) => {
                <Card className="skill-nbcard">
                              
                                    <Card.Header><div class="lead"><h5>Where can we find the articles and past contests</h5></div></Card.Header>
-                                    <Card.Body>   <Card.Text align="left">
+                                    <Card.Body>   
+                                     
+                                     
+                                     
+                                     <Card.Text align="left">
 <br></br>
+<br></br>
+ <br></br>
 
 </Card.Text>
                                 </Card.Body></Card>
@@ -151,6 +157,8 @@ const About = ({ darkMode }) => {
                                    <Card.Header><div class="lead"><h5>Some fun events</h5></div></Card.Header>
                                     <Card.Body>   <Card.Text align="left">
 <br></br>
+<br></br>
+ <br></br>
 
 </Card.Text>
                                 </Card.Body></Card>
@@ -163,6 +171,8 @@ const About = ({ darkMode }) => {
                                    <Card.Header><div class="lead"><h5>How can I report a error if I found a error in material</h5></div></Card.Header>
                                     <Card.Body>   <Card.Text align="left">
 <br></br>
+<br></br>
+ <br></br>
 
 </Card.Text>
                                 </Card.Body></Card>
@@ -175,6 +185,8 @@ const About = ({ darkMode }) => {
                                    <Card.Header><div class="lead"><h5>How can we contact GC staff</h5></div></Card.Header>
                                     <Card.Body>   <Card.Text align="left">
 <br></br>
+<br></br>
+ <br></br>
 
 </Card.Text>
                                 </Card.Body></Card>
