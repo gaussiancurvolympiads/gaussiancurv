@@ -1,0 +1,226 @@
+[data-theme="dark"] {
+  
+     --bg-color: #ffffff;
+    --text-color: #bab8bf;
+    --page-color: #fcfcfc ;
+    --hello: #00c3ff;
+    --description: #bab8bf;
+    --name: #bab8bf;
+    --border-width: 1px;
+    --aritra:#ffffff;
+    --oreo:#00000;
+  --new: #000000;
+}
+
+:root{
+     --bg-color: #1f1e1d;
+    --text-color: #19e3a3;
+    --page-color: #1f1e1d;
+    --description: #19e3a3;
+    --hello: #19e3a3;
+    --name: #19e3a3;
+    --border-width: 2px;
+    --aritra:#272628;
+     --oreo:#272628; 
+  --new: #00c3ff;
+}
+
+
+
+.App{
+    background-color: var(--page-color);
+    height: 100%;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+}
+
+.navbar .navname{
+    font-size: x-large;
+    margin-left: 20px;
+    color: #000000;
+    font-weight: 500;
+}
+.navbar .navname:visited{
+    color: #000000;
+}
+.navbar .navname:hover{
+    color: #8474e9;
+}
+
+.navbar .mr-auto .link{
+    margin-left: 20px;
+    font-size: large;
+    color: var(--oreo);
+}
+.navbar .mr-auto .link:visited{
+    color: var(--oreo);
+}
+.navbar .mr-auto .link:hover{
+    color: var(--name);
+}
+
+.dark{
+    color: #000000;
+    size: 40px;
+}
+
+.navbar{
+    background-color: var(--bg-color);
+    color: #000000;
+    padding: 15px;
+}
+.text{
+    color: var(--oreo);
+}
+.hello-img{
+    margin-top: 10px;
+    max-height: 250px;
+}
+.display-3{
+    color: var(--hello);
+}
+
+.lead{
+    color: var(--description);
+    font-size: xx-large;
+    font-weight: 300;
+}
+code{
+    font-family: Helvetica, Arial, sans-serif;
+    color: var(--name);
+}
+.hello{
+    margin-top: 80px;
+}
+.nbcard{
+    background-color: var(--page-color);
+    color: var(--hello);
+    padding: 10px;
+    border: none;
+}
+.a{
+    text-align: center;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+.about-h{
+    font-size: x-large;
+}
+.connect-img{
+    padding-bottom: 9px;
+}
+strong, .with{
+    color: var(--name);
+}
+.skill-h{
+    margin-top: 15px;
+}
+.skills-img{
+    margin-left: 15px;
+    margin-top: 80px;
+    height: 150px;
+    width: auto;
+}
+.skills-btn{
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    border-width: var(--border-width);
+}
+.skills-btn{
+    color: #8e8d8a;
+}
+.skill-txt{
+    font-weight: bold;
+    font-size: 30px;
+    vertical-align: middle;
+  color: var(--aritra);
+}
+.skill-nbcard{
+    color: var(--new);
+    margin-top: 10px;
+    background-color: var(--aritra);
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+    cursor: pointer;
+}
+.skill-nbcard:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.exp{
+    border-width: 1px;
+    border-color: var(--name);
+    background-color: transparent;
+}
+
+.flip-card {
+    background-color: var(--page-color);
+    color: var(--hello);
+    padding: 15px;
+    width: 300px;
+    height: 300px;
+    perspective: 1000px;
+    color: var(--text-color);
+  }
+  
+.flip-card-inner {
+    position: relative;
+    transition: transform 1s;
+    transform-style: preserve-3d;
+    box-shadow: 1 4px 8px 1 rgba(1,0,1,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.flip-card-back {
+    transform: rotateY(180deg);
+}
+
+.sbtn{
+    margin-top: 20px;
+}
+
+.ph{
+    background-color: var(--page-color);
+    border-width: 1px;
+    border-color: var(--text-color);
+    color: var(--hello);
+}
+
+.contact-img{
+    height: 150px;
+    width: auto;
+    margin-left: 35px;
+}
+.contact-text{
+    color: var(--name);
+}
+.footer-text{
+    text-align: center;
+    color: var(--name);
+    margin-top: 100px;
+}
+#tsparticles {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  left: 0;
+}
+
