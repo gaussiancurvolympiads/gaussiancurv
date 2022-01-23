@@ -33,21 +33,7 @@ return (
 }
 <ControlledTabs />
 const About = ({ darkMode }) => {
- function AlertDismissibleExample() {
-  const [show, setShow] = useState(true);
 
-  if (show) {
-    return (
-      <Alert variant={darkMode ? "light" : "warning"} onClose={() => setShow(false)} dismissible>
-        <Alert.Heading></Alert.Heading>
-        <p>
-     
-        </p>
-      </Alert>
-    );
-  }
-  return <Button variant="light" onClick={() => setShow(true)}>Click To Know About Latest Announcements</Button>;
-}
 
 
 
@@ -118,8 +104,8 @@ const About = ({ darkMode }) => {
             <Col lg={12} align='left'>
                <Card className="skill-nbcard">
                            
-                                    <Card.Header><div class= "lead">FAQS</div></Card.Header>      <Card.Body> 
-                                    <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>MMO is back in this year again and is scheduled to be held on 14th December. The rules and regulations of the contest is identical to its previous year's rules and regulation. MMO 2021 team is listed in the team's page, we have fairly expanded from the base team of 6 peoples from 2020. Best of luck.
+                    <Card.Header><div class= "lead"><h5>What is GC and it's establishment <h5></div></Card.Header>      <Card.Body> 
+                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
 <br></br>
 <br></br>
  <br></br>
@@ -127,18 +113,21 @@ const About = ({ darkMode }) => {
  </Card.Text>
                             </Card.Body></Card>
             </Col>
- 
+ </Row> &nbsp;
+<Row>   <Col lg={12} align='left'>
+               <Card className="skill-nbcard">
+                           
+                    <Card.Header><div class= "lead"><h5>Starting Works and Experience<h5></div></Card.Header>      <Card.Body> 
+                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
+<br></br>
+<br></br>
+ <br></br>
+
+ </Card.Text>
+                            </Card.Body></Card>
+            </Col>
+
             </Row> &nbsp;  
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -147,7 +136,7 @@ const About = ({ darkMode }) => {
   <Col lg={12} align='left'>
                <Card className="skill-nbcard">
                              
-                                   <Card.Header><div class="lead">FAQS</div></Card.Header>
+                                   <Card.Header><div class="lead">Where can we find the articles and past contests</div></Card.Header>
                                     <Card.Body>   <Card.Text align="left">
 <br></br>
 
@@ -155,8 +144,44 @@ const About = ({ darkMode }) => {
                                 </Card.Body></Card>
             </Col>
 </Row>
-<AlertDismissibleExample />
-      
+
+
+<Row>
+  <Col lg={12} align='left'>
+               <Card className="skill-nbcard">
+                             
+                                   <Card.Header><div class="lead"><h5>Some fun events<h5></div></Card.Header>
+                                    <Card.Body>   <Card.Text align="left">
+<br></br>
+
+</Card.Text>
+                                </Card.Body></Card>
+            </Col>
+</Row>
+      <Row>
+  <Col lg={12} align='left'>
+               <Card className="skill-nbcard">
+                             
+                                   <Card.Header><div class="lead"><h5>How can I report a error if I found a error in material<h5></div></Card.Header>
+                                    <Card.Body>   <Card.Text align="left">
+<br></br>
+
+</Card.Text>
+                                </Card.Body></Card>
+            </Col>
+</Row>
+                                   
+                                   <Col lg={12} align='left'>
+               <Card className="skill-nbcard">
+                             
+                                   <Card.Header><div class="lead"><h5>How can we contact GC staff<h5></div></Card.Header>
+                                    <Card.Body>   <Card.Text align="left">
+<br></br>
+
+</Card.Text>
+                                </Card.Body></Card>
+            </Col>
+</Row>
  </Container>
       </Fade>
     </div>
