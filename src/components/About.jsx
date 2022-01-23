@@ -171,7 +171,7 @@ const About = ({ darkMode }) => {
             </Col>
 </Row>
                                    
-                                   <Col lg={12} align='left'>
+        <Row>                           <Col lg={12} align='left'>
                <Card className="skill-nbcard">
                              
                                    <Card.Header><div class="lead"><h5>How can we contact GC staff</h5></div></Card.Header>
