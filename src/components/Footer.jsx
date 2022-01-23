@@ -24,22 +24,22 @@ const Footer = ({ darkMode }) => {
           </Column>  
           <Column>
            <Heading><h5>Info</h5></Heading>
-            <FooterLink href="#">About</FooterLink>
-            <FooterLink href="#">Articles</FooterLink>
-            <FooterLink href="#">Contests</FooterLink>
+            <FooterLink href="https://gcurvature.vercel.app/about">About</FooterLink>
+            <FooterLink href="https://gcurvature.vercel.app/">Articles</FooterLink>
+            <FooterLink href="https://gcurvature.vercel.app/mmo2020">Contests</FooterLink>
           </Column>
           <Column>
             <Heading><h5>Place</h5></Heading>
-            <FooterLink href="#">Articles</FooterLink>
-            <FooterLink href="#">Problem Sets</FooterLink>
-            <FooterLink href="#">Past Papers</FooterLink>
+            <FooterLink href="https://gcurvature.vercel.app/">Fun Events</FooterLink>
+            <FooterLink href="https://gcurvature.vercel.app/mmo2020">Problem Sets</FooterLink>
+            <FooterLink href="https://gcurvature.vercel.app/mmo2020">Past Papers</FooterLink>
            
           </Column>
           <Column>
             <Heading><h5>Interact</h5></Heading>
-            <FooterLink href="#">Contact Form</FooterLink>
-            <FooterLink href="#">Email</FooterLink>
-            <FooterLink href="#">Discord</FooterLink>
+            <FooterLink href="https://gcurvature.vercel.app/contact">Contact Form</FooterLink>
+            <FooterLink href="gaussiancurv180@gmail.com">Email</FooterLink>
+            <FooterLink href="https://discord.gg/yTKuF9GUtP">Discord</FooterLink>
           </Column>
                 
         </Row>
