@@ -36,7 +36,7 @@ export const Mdark = styled.b`
   padding: 0.9rem 1.4rem;
   background: #19e3a3;
   border-radius: 0.3rem;
-  box-shadow: 0px 0px 17px 0px rgba(25, 227, 163, 0.36);
+  box-shadow: 0px 0px 17px 0px rgba(25, 227, 163, 0.4);
   transition: 0.5s;
   @media (max-width: 380px) {
     width: 80%;
@@ -51,7 +51,7 @@ export const Mdark = styled.b`
     margin-right: 1rem;
     background: #272628;
     color: #19e3a3;
-     box-shadow: 0px 0px 17px 0px rgba(25, 227, 163, 0.36);
+      box-shadow: 0px 0px 17px 0px rgba(25, 227, 163, 0.4);
  &:hover {
       box-shadow: rgb(25, 227, 163) 0px 13px 19px -6px;
     }
