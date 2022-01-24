@@ -109,7 +109,7 @@ const Team = ({ darkMode }) => {
                                 <Card.Body>
                                    
                                     <Card.Text><ul align="left">
-                                       <b>     <li class={darkMode? "head" : "text-light"}>MNJ2357, Korea</li>   <li>TLP.39, Thailand</li> <li class={darkMode? "head" : "text-light"}>IndoMathXDZ, Indonesia</li>  <li>Aritra12, India</li> <li class={darkMode? "head" : "text-light"}>k12byda5h, Thailand</li><li>CANBANKAN, Canada</li>
+                                       <b>     <li class={darkMode? "text-secondary" : "text-light"}>MNJ2357, Korea</li>   <li>TLP.39, Thailand</li> <li class={darkMode? "text-secondary" : "text-light"}>IndoMathXDZ, Indonesia</li>  <li>Aritra12, India</li> <li class={darkMode? "text-secondary" : "text-light"}>k12byda5h, Thailand</li><li>CANBANKAN, Canada</li>
 
        
 
