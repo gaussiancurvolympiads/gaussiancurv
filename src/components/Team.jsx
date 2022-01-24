@@ -173,7 +173,7 @@ const Team = ({ darkMode }) => {
 
 
 
-Col lg={4} align="center">
+<Col lg={4} align="center">
                <Card className="nbcard">
                                 <Card.Body>
                                     
