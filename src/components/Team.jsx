@@ -7,8 +7,8 @@ import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Tab from 'react-bootstrap/Tab'
 import Tabs from 'react-bootstrap/Tabs'
-import helloLight from 'components/images/GC image.png'
-import helloDark from 'components/images/GC image.png'
+import helloLight from '../components/images/GC image.png';
+ import helloDark from '../components/images/GC image.png';
 
 function ControlledTabs() {
   const [key, setKey] = useState('home');
