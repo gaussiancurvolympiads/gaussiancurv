@@ -21,7 +21,7 @@ const Home = ({ darkMode }) => {
      
                         <h2 className="display-3 hello" align="center"><b>  Gaussian Curvature </b> </h2>
                         <h2 className="lead" align="center">
-                            <span
+                            <span class="txt-rotate"
                                 data-period="2000"
                                 data-rotate='[ "Time", " Has Came", " To Check The Other Side Of", "Mathematics" ]'>
                                 
@@ -36,7 +36,10 @@ const Home = ({ darkMode }) => {
 <div align="center" class="text-secondary" >  
 <div align="center" class="lead">
  
-            <h5 align="center"> GIMO 2022 is our next contest, so stay tuned </h5> </div> 
+            <h5 align="center"> GIMO 2022 is our next contest, so stay tuned    <span
+     class="txt-rotate"
+     data-period="2000"
+     data-rotate='[ "nerdy.", "simple.", "pure JS.", "pretty.", "fun!" ]'></span></h5> </div> 
            
 </div>
  
