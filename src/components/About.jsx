@@ -102,8 +102,8 @@ const About = ({ darkMode }) => {
             <Col lg={12} align='left'>
                <Card className="skill-nbcard">
                            
-                    <Card.Header><div class= "head"><h5>What is GC and it's establishment </h5></div></Card.Header>      <Card.Body> 
-                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
+                    <Card.Header><div class= "head"><h5>GC Establishment </h5></div></Card.Header>      <Card.Body> 
+                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Well, I will say quiet briefly because it would get pretty long if I start saying everything in details but Gaussian Curvature was founded by me(Aritra12, India) during the time of the pandemic when everything was just online in the month of Decemeber in year 2020 which implicates that it's now over a year older now and everything is going on swiftly. Well someday I will say more about it.
 <br></br>
 
 
@@ -115,8 +115,9 @@ const About = ({ darkMode }) => {
                <Card className="skill-nbcard">
                            
                     <Card.Header><div class= "lead"><h5>Starting Works and Experience</h5></div></Card.Header>      <Card.Body> 
-                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
-
+                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Along the start of this project from our whole hard working and sincere team team of GC some peoples deserves special mention in GC, 6 of my dear friends Orestis Lignos, Agamjeet Singh, Agaman Chatterjee, Papon Lapate, i3435, Arkan Manva  who helped in their all ways with me to curve the GC in a elegant way. As time past we improved our methods and new members were added in GC, this might be a time in between(middle point of  time of age of GC) but thats when 
+                     another member and dear friend  also deserves a special mention, his name is Vlad Spataru akava oVlad, he was also very energetic like my  6 friends
+ when we started.
  <br></br>
 
 
