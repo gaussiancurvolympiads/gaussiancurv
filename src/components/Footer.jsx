@@ -18,7 +18,7 @@ const Footer = ({ darkMode }) => {
       <Container>
        <Row className="footer-text">  
       <Column>
-           img src={darkMode ? helloDark : helloLight} alt="hello" className="hello-img" width="150" />
+           <img src={darkMode ? helloDark : helloLight} alt="hello" className="hello-img" width="150" />
             <p>Copyright &copy; 2021 GC </p>
                
        
