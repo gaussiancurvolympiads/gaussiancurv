@@ -117,13 +117,7 @@ const Team = ({ darkMode }) => {
 
  <li>Orestis Lignos, Greece</li> <li class={darkMode? "text-secondary" : "text-light"}>Jelena, India</li> <li>sk_pi3145, USA</li>  <li class={darkMode? "text-secondary" : "text-light"}>Justin Lee, USA</li> <li>NJOY, India</li><li class={darkMode? "text-secondary" : "text-light"}>L567, India</li><li>Borao, Switzerland</li>
 
-<li class={darkMode? "text-secondary" : "text-light"}>CyclicISLscelesTrapezoid, USA</li>
-<li>Mindstormer, Ukraine</li>
-<li class={darkMode? "text-secondary" : "text-light"}>Sealsrock, USA</li>
-<li>ELectroWiz, USA</li>
 
-<li class={darkMode? "text-secondary" : "text-light"}>saadbd, Bangladesh</li>
-<li>Spiderduckpig, USA</li>
 
  
 </b>
@@ -135,7 +129,7 @@ const Team = ({ darkMode }) => {
                                           </ul></Card.Text>
                                 </Card.Body></Card>
   </Col>
-                                   <Col lg={6} align="center">
+                                   <Col lg={4} align="center">
                <Card className="nbcard">
                                 <Card.Body>
                                     
@@ -151,22 +145,7 @@ const Team = ({ darkMode }) => {
  <li>Jupiter_is_Big, India</li>
  <li class={darkMode? "text-secondary" : "text-light"}>oVlad, Romania</li>
 <li>phoenixfire, India</li>
-<li class={darkMode? "text-secondary" : "text-light"}>lneis1, India</li>
- <li>Awesome_Guy, USA</li>
-<li class={darkMode? "text-secondary" : "text-light"}>Anirrudha Sharma, India</li> 
 
-<li>Mathicorn, USA</li>
-<li class={darkMode? "text-secondary" : "text-light"}>Ramtin cheraghi nia, Iran</li>
-<li>Sherlock, Iran</li>
-
-<li class={darkMode? "text-secondary" : "text-light"}>Amar_04, India</li>
-<li>EmilXM, Azerbaijan</li>
-
-
-<li class={darkMode? "text-secondary" : "text-light"}>pog, USA</li>
-<li>v4913, USA</li>
-<li class={darkMode? "text-secondary" : "text-light"}>Aryan-23, India</li>
-<li>player_01, Unknown</li>
 
 
 
@@ -176,7 +155,70 @@ const Team = ({ darkMode }) => {
 
 </ul></Card.Text>
 </Card.Body></Card>
- </Col> </Row> &nbsp;
+ </Col> 
+
+
+
+
+
+
+
+
+
+
+
+
+Col lg={4} align="center">
+               <Card className="nbcard">
+                                <Card.Body>
+                                    
+                                    <Card.Text><ul align="left">
+                                              
+<b>
+ 
+<li class={darkMode? "text-secondary" : "text-light"}>Amar_04, India</li>
+ <li>Awesome_Guy, USA</li>
+<li class={darkMode? "text-secondary" : "text-light"}>Anirrudha Sharma, India</li> 
+
+<li>Mathicorn, USA</li>
+<li class={darkMode? "text-secondary" : "text-light"}>Ramtin cheraghi nia, Iran</li>
+<li>Sherlock, Iran</li>
+
+<li class={darkMode? "text-secondary" : "text-light"}>lneis1, India</li>
+<li>EmilXM, Azerbaijan</li>
+
+
+<li class={darkMode? "text-secondary" : "text-light"}>pog, USA</li>
+<li>v4913, USA</li>
+<li class={darkMode? "text-secondary" : "text-light"}>Aryan-23, India</li>
+<li>player_01, Unknown</li>
+<li class={darkMode? "text-secondary" : "text-light"}>CyclicISLscelesTrapezoid, USA</li>
+<li>Mindstormer, Ukraine</li>
+<li class={darkMode? "text-secondary" : "text-light"}>Sealsrock, USA</li>
+<li>ELectroWiz, USA</li>
+
+<li class={darkMode? "text-secondary" : "text-light"}>saadbd, Bangladesh</li>
+<li>Spiderduckpig, USA</li>
+
+
+
+
+</b>
+
+</ul></Card.Text>
+</Card.Body></Card>
+ </Col>
+
+
+
+
+
+
+
+
+
+
+</Row> &nbsp;
 
       
  </Container>
