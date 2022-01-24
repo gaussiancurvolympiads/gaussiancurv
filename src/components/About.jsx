@@ -157,8 +157,7 @@ const About = ({ darkMode }) => {
                                    <Card.Header><div class="lead"><h5>Some fun events</h5></div></Card.Header>
                                     <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Well besides mathematics, here some other certian kind of events too take place such as some creative contests like a olympiad style problem writting contest, some games such as chess contest and much more things.
 <br></br>
-<br></br>
- <br></br>
+
 
 </Card.Text>
                                 </Card.Body></Card>
@@ -172,8 +171,7 @@ const About = ({ darkMode }) => {
                                     <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Whenever you face any type of error or other typographical mistakes in any kind of material, first of all shoot a message to the material author personaly, in 
                                       case he/she does not respond to you in a day or two, you can then contact us via our official mail.
 <br></br>
-<br></br>
- <br></br>
+
 
 </Card.Text>
                                 </Card.Body></Card>
@@ -186,8 +184,7 @@ const About = ({ darkMode }) => {
                                    <Card.Header><div class="lead"><h5>How can we contact GC staff</h5></div></Card.Header>
                                     <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> You can email at our offcial gmail account which is gaussiancurv180@gmail.com  or you can contact us through the contact form on the contact us page. Feel free to contact us anytime you face any kind of problem.
 <br></br>
-<br></br>
- <br></br>
+
 
 </Card.Text>
                                 </Card.Body></Card>
