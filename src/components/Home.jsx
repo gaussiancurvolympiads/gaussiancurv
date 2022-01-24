@@ -24,9 +24,10 @@ const Home = ({ darkMode }) => {
                             <span
                                 class="txt-rotate"
                                 data-period="2000"
-                                data-rotate='[ " MetriX Mathematical Olympiad", " Is An IMO-Type Contest", " Held Online", "Every Year" ]'>
-                                 <br></br>
+                                data-rotate='[ "Time", " Has Came", " To Check The Other Side Of", "Mathematics" ]'>
+                                
                             </span>
+ <br></br>
                         </h2>
                  </Col>   
                 </Row>
