@@ -105,8 +105,7 @@ const About = ({ darkMode }) => {
                     <Card.Header><div class= "head"><h5>What is GC and it's establishment </h5></div></Card.Header>      <Card.Body> 
                      <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
 <br></br>
-<br></br>
- <br></br>
+
 
  </Card.Text>
                             </Card.Body> </Card>
@@ -117,8 +116,7 @@ const About = ({ darkMode }) => {
                            
                     <Card.Header><div class= "lead"><h5>Starting Works and Experience</h5></div></Card.Header>      <Card.Body> 
                      <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
-<br></br>
-<br></br>
+
  <br></br>
 
 
@@ -142,10 +140,9 @@ const About = ({ darkMode }) => {
                                      
                                      <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>   You can find the articles in the article's page of the website and past contest(s) info can be found in the contest's page. The main 
                                      
-                                     contest of GC is the GIMO series which consists of a USA(J)MO  type contest which  is GAMO and GJMO being the first stage of GIMO and GIMO which is an IMO type contest being the second and last stage of the contest. Another two main events which are  semi independent(events which have total control by it's founder and not by GC admin(s) unless founder is himself a GC admin and has got a certain help/support or partnering whilist contest making from GC) of GC is MetriX Mathematical Olympiad(MMO Founder: Aritra12) and Online International Mmathematical Cup(OIMC Founder: oVlad). GC at the momment has 7-8 olympiad articles with some on number theory, geometry and rest of algebra. 
+                                     contest of GC is the GIMO series which consists of a USA(J)MO  type contest which  is GAMO and GJMO being the first stage of GIMO and GIMO which is an IMO type contest being the second and last stage of the contest. Another two main events which are  semi independent(events which have total control by it's founder and not by GC admin(s) unless founder is himself a GC admin and has got a certain help/support or partnering whilist contest making from GC) of GC is MetriX Mathematical Olympiad(MMO Founder is Aritra12) and Online International Mathematical Cup(OIMC Founder is oVlad). GC at the momment has 7-8 olympiad articles with some on number theory, geometry and rest of algebra. 
 <br></br>
-<br></br>
- <br></br>
+
 
 </Card.Text>
                                 </Card.Body></Card>
