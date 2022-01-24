@@ -22,7 +22,6 @@ const Home = ({ darkMode }) => {
                         <h2 className="display-3 hello" align="center"><b>  Gaussian Curvature </b> </h2>
                         <h2 className="lead" align="center">
                             <span
-                                class="txt-rotate"
                                 data-period="2000"
                                 data-rotate='[ "Time", " Has Came", " To Check The Other Side Of", "Mathematics" ]'>
                                 
