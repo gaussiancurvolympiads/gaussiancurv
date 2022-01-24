@@ -63,7 +63,7 @@ const Home = ({ darkMode }) => {
             </Col>
  
             </Row>    </Container> &nbsp;   
-        </div>
+       <Particles />  </div>
     )
 }
 
