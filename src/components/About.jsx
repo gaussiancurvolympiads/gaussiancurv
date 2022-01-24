@@ -138,9 +138,11 @@ const About = ({ darkMode }) => {
                                    <Card.Header><div class="lead"><h5>Where can we find the articles and past contests</h5></div></Card.Header>
                                     <Card.Body>   
                                      
+                                   
                                      
+                                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>   You can find the articles in the article's page of the website and past contest(s) info can be found in the contest's page. The main 
                                      
-                                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
+                                     contest of GC is the GIMO series which consists of a USA(J)MO  type contest which  is GAMO and GJMO being the first stage of GIMO and GIMO which is an IMO type contest being the second and last stage of the contest. Another two main events which are  semi independent(events which have total control by it's founder and not by GC admin(s) unless founder is himself a GC admin and has got a certain help/support or partnering whilist contest making from GC) of GC is MetriX Mathematical Olympiad(MMO Founder: Aritra12) and Online International Mmathematical Cup(OIMC Founder: oVlad). GC at the momment has 7-8 olympiad articles with some on number theory, geometry and rest of algebra. 
 <br></br>
 <br></br>
  <br></br>
@@ -156,7 +158,7 @@ const About = ({ darkMode }) => {
                <Card className="skill-nbcard">
                              
                                    <Card.Header><div class="lead"><h5>Some fun events</h5></div></Card.Header>
-                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
+                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Well besides mathematics, here some other certian kind of events too take place such as some creative contests like a olympiad style problem writting contest, some games such as chess contest and much more things.
 <br></br>
 <br></br>
  <br></br>
@@ -169,8 +171,9 @@ const About = ({ darkMode }) => {
   <Col lg={12} align='left'>
                <Card className="skill-nbcard">
                              
-                                   <Card.Header><div class="lead"><h5>How can I report a error if I found a error in material</h5></div></Card.Header>
-                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
+                                   <Card.Header><div class="lead"><h5> I found a error in material</h5></div></Card.Header>
+                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Whenever you face any type of error or other typographical mistakes in any kind of material, first of all shoot a message to the material author personaly, in 
+                                      case he/she does not respond to you in a day or two, you can then contact us via our official mail.
 <br></br>
 <br></br>
  <br></br>
@@ -184,7 +187,7 @@ const About = ({ darkMode }) => {
                <Card className="skill-nbcard">
                              
                                    <Card.Header><div class="lead"><h5>How can we contact GC staff</h5></div></Card.Header>
-                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>
+                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> You can email at our offcial gmail account which is gaussiancurv180@gmail.com  or you can contact us through the contact form on the contact us page. Feel free to contact us anytime you face any kind of problem.
 <br></br>
 <br></br>
  <br></br>
