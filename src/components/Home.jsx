@@ -24,10 +24,10 @@ const Home = ({ darkMode }) => {
                             <span class="txt-rotate"
                                 data-period="2000"
                                 data-rotate='[ "Time", " Has Came", " To Check The Other Side Of", "Mathematics" ]'>
-                                
+                            <br></br>    
                             </span>
 
-                        </h2>  <br></br>
+                        </h2>  
                  </Col>   
                 </Row>
 
@@ -36,10 +36,7 @@ const Home = ({ darkMode }) => {
 <div align="center" class="text-secondary" >  
 <div align="center" class="lead">
  
-            <h5 align="center"> GIMO 2022 is our next contest, so stay tuned    <span
-     class="txt-rotate"
-     data-period="2000"
-     data-rotate='[ "nerdy.", "simple.", "pure JS.", "pretty.", "fun!" ]'></span></h5> </div> 
+            <h5 align="center"> GIMO 2022 is our next contest, so stay tuned  </h5> </div> 
            
 </div>
  
