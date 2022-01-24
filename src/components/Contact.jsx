@@ -29,7 +29,7 @@ const Contact = ({ darkMode }) => {
             });
         swal({
             title: "Sent Successfully!",
-            text: "Glad to hear from you! I will get back to you as soon possible",
+            text: "Glad to hear from you! We will get back to you as soon possible",
             icon: "success",
         });
         setTemplateParams({
@@ -46,7 +46,10 @@ const Contact = ({ darkMode }) => {
                 <Container align="center">
                       <h2 className="lead"><b>Contact Us</b></h2>
                     <Row>
-      
+        <span
+     class="txt-rotate"
+     data-period="2000"
+     data-rotate='[ "nerdy.", "simple.", "pure JS.", "pretty.", "fun!" ]'></span>
 <br></br>
 
                 <br></br>
