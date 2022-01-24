@@ -27,8 +27,8 @@ const Home = ({ darkMode }) => {
                                 data-rotate='[ "Time", " Has Came", " To Check The Other Side Of", "Mathematics" ]'>
                                 
                             </span>
- <br></br>
-                        </h2>
+
+                        </h2>  <br></br>
                  </Col>   
                 </Row>
 
