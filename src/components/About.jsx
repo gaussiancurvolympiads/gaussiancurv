@@ -103,7 +103,7 @@ const About = ({ darkMode }) => {
                <Card className="skill-nbcard">
                            
                     <Card.Header><div class= "lead"><h5>GC Establishment </h5></div></Card.Header>      <Card.Body> 
-                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Well, I will say quiet briefly because it would get pretty long if I start saying everything in details but Gaussian Curvature was founded by me(Aritra12, India) during the time of the pandemic when everything was just online in the month of Decemeber in year 2020 which implicates that it's now over a year older now and everything is going on swiftly. Well someday I will say more about it.
+                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>I will say  briefly because it would get pretty long if I start saying everything in details but Gaussian Curvature was founded by me(Aritra12, India) during the time of the pandemic when everything was just online in the month of Decemeber in year 2020 which implicates that it's now over a year older now and everything is going on swiftly. Well someday I will say more about it.
 <br></br>
 
 
