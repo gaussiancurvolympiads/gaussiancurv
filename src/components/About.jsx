@@ -117,7 +117,7 @@ const About = ({ darkMode }) => {
                     <Card.Header><div class= "lead"><h5>Starting Works and Experience</h5></div></Card.Header>      <Card.Body> 
                      <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Along the start of this project from our whole hard working and sincere team team of GC some peoples deserves special mention in GC, 6 of my dear friends Orestis Lignos, Agamjeet Singh, Agaman Chatterjee, Papon Lapate, i3435, Arkan Manva  who helped in their all ways with me to curve the GC in a elegant way. As time past we improved our methods and new members were added in GC, this might be a time in between(middle point of  time of age of GC) but thats when 
                      another member and dear friend  also deserves a special mention, his name is Vlad Spataru akava oVlad, he was also very energetic like my  6 friends
- when we started.
+ when we started. All team members experienced a great time in GC along the time and we all became like a family. As a formal and humorus warning, if you are nto a GC staff never try to trespass or join our discord staff server, because it's all comedy of errors there.
  <br></br>
 
 
