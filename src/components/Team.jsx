@@ -145,7 +145,12 @@ const Team = ({ darkMode }) => {
  <li>Jupiter_is_Big, India</li>
  <li class={darkMode? "text-secondary" : "text-light"}>oVlad, Romania</li>
 <li>phoenixfire, India</li>
+<li class={darkMode? "text-secondary" : "text-light"}>Mindstormer, Ukraine</li>
+<li>Sealsrock, USA</li>
+<li class={darkMode? "text-secondary" : "text-light"}>ELectroWiz, USA</li>
 
+<li >saadbd, Bangladesh</li>
+<li class={darkMode? "text-secondary" : "text-light"}>Spiderduckpig, USA</li>
 
 
 
@@ -193,12 +198,7 @@ Col lg={4} align="center">
 <li class={darkMode? "text-secondary" : "text-light"}>Aryan-23, India</li>
 <li>player_01, Unknown</li>
 <li class={darkMode? "text-secondary" : "text-light"}>CyclicISLscelesTrapezoid, USA</li>
-<li>Mindstormer, Ukraine</li>
-<li class={darkMode? "text-secondary" : "text-light"}>Sealsrock, USA</li>
-<li>ELectroWiz, USA</li>
 
-<li class={darkMode? "text-secondary" : "text-light"}>saadbd, Bangladesh</li>
-<li>Spiderduckpig, USA</li>
 
 
 
