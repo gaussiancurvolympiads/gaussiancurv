@@ -1,7 +1,7 @@
 import { React } from 'react'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
-
+import Particles from "../components/particles";
 import Card from 'react-bootstrap/Card'
 import Container from 'react-bootstrap/Container'
 import { AttentionSeeker } from 'react-awesome-reveal';
@@ -14,9 +14,9 @@ const Home = ({ darkMode }) => {
     return (
         <div>
     
-            <AttentionSeeker effect="pulse">  
+            <AttentionSeeker shakeX>  
                 <Row>  
-
+   <Particles />
                     <Col lg={12} xs={12}>
      
                         <h2 className="display-3 hello" align="center"><b>  Gaussian Curvature </b> </h2>
@@ -36,7 +36,7 @@ const Home = ({ darkMode }) => {
 <div align="center" class="text-secondary" >  
 <div align="center" class="lead">
  
-            <h5 align="center"> GIMO 2022 is our next contest, so stay tuned. </h5> </div> 
+            <h5 align="center"> GIMO 2022 is our next contest, so stay tuned </h5> </div> 
            
 </div>
  
