@@ -11,10 +11,10 @@ const Home = ({ darkMode }) => {
  
 
 
-    return (
+    return ( <Particles />
         <div>
             <AttentionSeeker effect="pulse">
-                <Row>  <Particles />
+                <Row>  
   
                     <Col lg={12} xs={12}>
      
