@@ -99,7 +99,7 @@ const Team = ({ darkMode }) => {
       <br></br>
       <Fade>
         <Container align='center'>
-     <br></br> <img src={darkMode ? helloDark : helloLight} alt="hello" className="hello-img" width="100" />
+     <br></br> <img src={darkMode ? helloDark : helloLight} alt="hello" className="hello-img" width="135" />
                    <p> <h2 className="lead" align="center"><b>Gaussian Curvature Team</b></h2> </p>
                     <br></br>
           <Row>    
@@ -109,7 +109,7 @@ const Team = ({ darkMode }) => {
                                 <Card.Body>
                                    
                                     <Card.Text><ul align="left">
-                                       <b>     <li class={darkMode? "text-secondary" : "text-light"}>MNJ2357, Korea</li>   <li>TLP.39, Thailand</li> <li class={darkMode? "text-secondary" : "text-light"}>IndoMathXDZ, Indonesia</li>  <li>Aritra12, India</li> <li class={darkMode? "text-secondary" : "text-light"}>k12byda5h, Thailand</li><li>CANBANKAN, Canada</li>
+                                       <b>     <li class={darkMode? "head" : "text-light"}>MNJ2357, Korea</li>   <li>TLP.39, Thailand</li> <li class={darkMode? "head" : "text-light"}>IndoMathXDZ, Indonesia</li>  <li>Aritra12, India</li> <li class={darkMode? "head" : "text-light"}>k12byda5h, Thailand</li><li>CANBANKAN, Canada</li>
 
        
 
