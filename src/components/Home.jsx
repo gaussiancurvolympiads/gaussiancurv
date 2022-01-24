@@ -14,7 +14,7 @@ const Home = ({ darkMode }) => {
     return (
         <div>
     
-            <AttentionSeeker shakeX>  
+            <AttentionSeeker effect="pulse">  
                 <Row>  
    <Particles />
                     <Col lg={12} xs={12}>
