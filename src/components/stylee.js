@@ -51,7 +51,7 @@ export const Mdark = styled.b`
     margin-right: 1rem;
     background: #272628;
     color: #19e3a3;
-     box-shadow: 0px 0px 17px 0px rgba(25, 227, 163, 0.4);
+     box-shadow: 0px 0px 17px 0px rgba(25, 227, 163, 0.36);
  &:hover {
       box-shadow: rgb(25, 227, 163) 0px 13px 19px -6px;
     }
