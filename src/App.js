@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react'
-import helloLight from '../src/oeye.png';
-import helloDark from '../src/oeye.png';
+import helloLight from '../src/GC image.png';
+import helloDark from '../src/GC image.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'font-awesome/css/font-awesome.min.css';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
