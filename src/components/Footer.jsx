@@ -6,8 +6,10 @@ import {
   FooterLink,
   Heading,
 } from "./FooterStyles";
+import helloLight from '../components/images/GC image.png';
+ import helloDark from '../components/images/GC image.png';
 
- 
+
 const Footer = ({ darkMode }) => {
     return (
         <div>
@@ -16,9 +18,8 @@ const Footer = ({ darkMode }) => {
       <Container>
        <Row className="footer-text">  
       <Column>
-           
-           
-             Copyright &copy; 2021 GC 
+           img src={darkMode ? helloDark : helloLight} alt="hello" className="hello-img" width="150" />
+            <p>Copyright &copy; 2021 GC </p>
                
        
           </Column>  
