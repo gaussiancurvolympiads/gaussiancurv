@@ -49,7 +49,7 @@ const Home = ({ darkMode }) => {
            
       <Container align='left'> <Row>
             <Col lg={15} align='left'>
-          <Card className="skill-nbcard">
+          <Card className="skill-nbcard">   <Particles />
                 <Card.Header><div class= "lead" >About Us</div></Card.Header>
                                 <Card.Body>
                                    
@@ -63,7 +63,7 @@ const Home = ({ darkMode }) => {
             </Col>
  
             </Row>    </Container> &nbsp;   
-       <Particles />  </div>
+       </div>
     )
 }
 
