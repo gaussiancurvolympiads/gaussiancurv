@@ -16,7 +16,65 @@ const Skills = ({ darkMode }) => {
         <div data-theme={darkMode ? "dark" : "light"}>
             <br></br>
             <Slide>
-                <Container>
+                  <br></br>
+                    <h4 className="lead" align="center"><b>GIMO</b></h4>
+                    <br></br>
+                    <Row>
+                   
+                                         <Col lg={4}>
+                     <Card className="skill-nbcard">
+            
+                                <Card.Body>
+                                     <div class={darkMode ? "lead" : "lead"}>GIMO 2021 Day 1</div>      <br></br>       
+                                    <Card.Text align="left">
+                                                 
+                                       <a  href="https://mail-attachment.googleusercontent.com/attachment/u/1/?ui=2&ik=e3eea35a15&attid=0.2&permmsgid=msg-f:1701998537667956915&th=179eb6a705eed0b3&view=att&disp=inline&realattid=f_kpnywooe1&saddbat=ANGjdJ9f4zbL0QVIaIjFmH_nNkNl8NBFkrdqv0sLnq3MU_EvkTt8ZL1G4nSJr8N0G44xuYERq6v4y6990xTwLg9uEHXk79uc-_Q-G7cVz-WbQFoVSvqgAQnUEtv1RayiViXe79WxdLQ1wEYJNuOD_582PrcnX5RZ0MiizRbGjFroybCvKVneKxpjE1OLIxHSPltDxkPvmieutZIHTVUUczAj8q8HeGph7CbFjMStjrGX9w1bhRoRCk8Zk3drkmM88JSA-T9w3ZvLHmiPjw0ZpTeJqJHIjghX3tI1b1sMpPodv0WbSh2pndDMNIQg6HfUxWSrSzIrAKtxY9I8PdTJuuxEoZimrSd0VIaLzsEsZoq9mcVh3yq1FN0ts1-HnLmF5HvmAbLU-dakBUqbyVD8TMg7N54W160XvM0aGag7hJCk0WMW1b90cL3cicAHS5i2BW_0JQO2QhNvx2OiISjb6S-KrjyuLFsBK7AZVZqoS0MPET0uacToQtG-dOy_CZO43-gqeYXyY0D436I4FO4ziM5AwoUC6sO8z7vewS2k-vLF81EdFvYe0WPgUHtkWtlRJ8dU75qm3O_xyUs4ihuP47EHBIO_-ovVCqur-IOMy24DtGnFZt5O46e22Tyb84IGphp-DO_X67xBdpPujgjRXRgOi5QcYIQsqd97toCK46kIDDRRRt1IkLd8Q8EbVt8" > 
+                                           {darkMode? <MagicalButton align="left">Download</MagicalButton> : <Mdark  align="left">Download</Mdark>}  
+                                          </a>&nbsp;&nbsp; </Card.Text>
+ 
+                                </Card.Body>
+
+                            </Card></Col>
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      <Col lg={4}>
+                     <Card className="skill-nbcard">
+            
+                                <Card.Body>
+                                     <div class={darkMode ? "lead" : "lead"}>GIMO 2021 Day 2</div>      <br></br>       
+                                    <Card.Text align="left">
+                                                 
+                                       <a  href="https://mail-attachment.googleusercontent.com/attachment/u/1/?ui=2&ik=e3eea35a15&attid=0.2&permmsgid=msg-f:1701998537667956915&th=179eb6a705eed0b3&view=att&disp=inline&realattid=f_kpnywooe1&saddbat=ANGjdJ_OVKr4zFs9u0T86qRcBHEFcYhORpO0IMV1qPGxPaFIkAyyKF3hAa7z1SJzYSa-sFF4y7LplzBEIbU_7aPaFvS7RZqagnqLKfBKyWwxJsQ_NNBWRbhvZvj3S2uXWPCB4zZ9e-GtDGJo0bBf_H3m3HQvybjwJTOydDX2j7mYgqCg6osmV-6sa7d-S16gTzIuODoFKW6M_AUZ5-fxDMm63R8B4vE0g57yp2YM6uaJl35A4Y9OxSqoW8JpMj1ogVFKHRdho4ZtUEsh_7jkBTx-LxTnD5CoSqtE880QFo0kRRdQDTWzJhWGAtIE9rjAEhHMZHXvRRToEwvBXvDiTAE6ZLjuzQZMr-j9X8eOpxlAbv7cqcs2ur4SvpiDUlJ1wSHnAxjDksTt8zfTCF0LHtsVjWLTQf4-1O9KuUxry50UbBfw291vevF4uyFdHth_cDRFaXP-P4OXkIbC8DwvYOJCUkpQUmTB78uABXFhzmvSAbH3xIF3Ckgedy-LRtJysAfClp6M80amhqOAewv5BuJSqqw_AQ94k6SI2luDDRLOtckaqUheO6Wji9-dvhMrzt10_y-_oaD_MFOA4aSIcu6oLf5D7hT9rq7BRgjywbMPH2rP_ZLl5MoMwjDs3HsbCnt7a2IveFq9ydISJlGoB2c6HQl1CMIqcJ_RPEXgisGXENOaDNmwaQUpDmrcuG4" > 
+                                           {darkMode? <MagicalButton align="left">Download</MagicalButton> : <Mdark  align="left">Download</Mdark>}  
+                                          </a>&nbsp;&nbsp; </Card.Text>
+ 
+                                </Card.Body>
+
+                            </Card></Col>
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      </Row>
+      
+      
+      
+      
+      
+      
+      
              <br></br>
                     <h4 className="lead" align="center"><b>MMO</b></h4>
                     <br></br>
