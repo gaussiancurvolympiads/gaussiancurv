@@ -28,8 +28,9 @@ const Skills = ({ darkMode }) => {
                                               
                                     <Card.Text align="left">
                                                    
-                                       <a  href="https://aritra-12.github.io/pdfs/MMO%202020%20DAY%201.pdf" target="_blank" rel="noreferrer noopener"> 
-                                           <Mdark  align="left">Download</Mdark>  </a>&nbsp;&nbsp; </Card.Text>
+                                       <a  href="https://aritra-12.github.io/pdfs/MMO%202020%20DAY%201.pdf" > 
+                                           <Mdark  align="left">Download</Mdark>  
+                                          </a>&nbsp;&nbsp; </Card.Text>
  
                                 </Card.Body>
 
@@ -43,7 +44,7 @@ const Skills = ({ darkMode }) => {
                                       
                                       <Card.Text align="left">
                                              
-  <a href="https://aritra-12.github.io/pdfs/MMO%202020%20DAY%202.pdf" target="_blank" rel="noreferrer noopener">
+  <a href="https://aritra-12.github.io/pdfs/MMO%202020%20DAY%202.pdf" >
                                          <Mdark  align="left">Download</Mdark> 
                                         </a>&nbsp;&nbsp;</Card.Text>
                                 </Card.Body>
