@@ -159,7 +159,110 @@ const Skills = ({ darkMode }) => {
 
 
                     <br></br>
+                    <h4 className="lead" align="center"><b>OIMC</b></h4>
+                    <br></br>
+                    <Row>
+                   
+                                         <Col lg={4}>
+                     <Card className="skill-nbcard">
+            
+                                <Card.Body>
+                                     <div class={darkMode ? "lead" : "lead"}>OIMC 2021 Day 1</div>      <br></br>       
+                                    <Card.Text align="left">
+                                                 
+                                       <a  href="https://mail-attachment.googleusercontent.com/attachment/u/1/?ui=2&ik=e3eea35a15&attid=0.1&permmsgid=msg-f:1722943964661818565&th=17e92068459224c5&view=att&disp=inline&saddbat=ANGjdJ-iDkolHa7po4foAFJnji7Av_xCerfaO4qKGTU_zyc3A4PE4TpCCAirjYME6bfsSEjzaLiSxFcZBAjYRutJqIQv1S6yz756rLgxL_ebwjDyi_y-iR_UkkUpR3CTczHG2brBuvs--2RRalt5kk_mv1uGxry1Tr0HNRnZDYCrnza7twsCu6mYm6b89P_d-muPcJ1temz-vD1Q15rlj0unc8DGXAT4Fi1XX9Uy-0z0zGZMxfC70ZoXBc-rP6jxNJ8M6s_P5gFRsdhtQBLaZAexHtxYojUL5FAdgYm-nE-UsiaA6jsF3RpafGAwCUNOo9E796GnVBcIxcoPqrBHNxOMtQwDO4dR9yciSWF_9EfkuIVZtI4Oe6AOfhM5no-zQc1lvCq94K81BLOA6qomo6ChdzI-_eKDB58rRC7mc4FVtvI7IVY2MRvJ6d4SPFv4RKtrQAMfK1mJq17s2qB0aNnNaOeT616DiBOetunCdFQ1lWJWKln8e1jkXt_yjXkz_WrbLNl0VTip0ipyQVshQI-TRuowDfOrIjbwpbG9likk4jwC5EdVmWgyJ2gTtr9ftzoV-O1dzzyu-_Lqo-kIAGek6X1pRgnQ94pzvlRQqbQI9j9bAu39NB7wJZauYos1vKQJEwk7u3Zl2ywg7qdUM5qk_N0Ct8zM0eqt3p9t5ThlKjzJLIscAkjHx1gSRBA" > 
+                                           {darkMode? <MagicalButton align="left">Download</MagicalButton> : <Mdark  align="left">Download</Mdark>}  
+                                          </a>&nbsp;&nbsp; </Card.Text>
+ 
+                                </Card.Body>
 
+                            </Card></Col>
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      <Col lg={4}>
+                     <Card className="skill-nbcard">
+            
+                                <Card.Body>
+                                     <div class={darkMode ? "lead" : "lead"}>OIMC 2021 Day 2</div>      <br></br>       
+                                    <Card.Text align="left">
+                                                 
+                                       <a  href="https://mail-attachment.googleusercontent.com/attachment/u/1/?ui=2&ik=e3eea35a15&attid=0.2&permmsgid=msg-f:1722943964661818565&th=17e92068459224c5&view=att&disp=inline&saddbat=ANGjdJ9YedWmE4UVDJwAcNOtl12b_Gu4kpd_ZXjM9moEl69Zakp8MUhf-WherZM0N18UWvjbye8G-RzIGfzS3EsVGm8dHQdN4gMRvmGtumGchCdJ-Q4SBrq5p3Bz57NsXKl9ThhBvDwdGQ6ZFRz-viZ-vsAWBKwqoju4nwMPz8zRNNbYPmpVKNlHJBDxyEMxY9gOW8D8PZVeVZFcCjpD9g5ppGkH0tv87u5mdFzWbOTs_O_qX2i-Qp9M3aJU3Lietz9WAKwyCb4Op1wvz2ThO0uMUCcFMruyjhuSuqNno8d3-TYwfd4VMsG1zsu_ZenWLWAHfPhXUWw1XQBuhTP5Mp1jI7AF8vmcol_WX1b3ndqUV7f1-k2ogUpngLCnNx-uFbgQbvla2POfEzXSoYotOozUrMvdfZg06EmkZyAfINgm7UB2jQt5WntBVVNkGIsYT5QYl1va-lecIpI0ZvX5GwqKbk_MiYCNvbkrtabHNl4Z6kNtfrReBDbqaPIF0JJrNv424rwzrE8aJtfnDLlNBSHl8w9qTCLPVvDKFACTR2eICFrRuk3yBVzmp9anR9VCFJhlhGJTdabr1K4jycmlYPrv8DIt5-CwzzMkQO4m5v5FUrEzG_vfsA3ykmKzsJSYkjotGdr_5dpGiPmVdeBd0fB_dYs3v0nSaxGPG-3QL6TUkdpCcHZGjSYajYvkXI4" > 
+                                           {darkMode? <MagicalButton align="left">Download</MagicalButton> : <Mdark  align="left">Download</Mdark>}  
+                                          </a>&nbsp;&nbsp; </Card.Text>
+ 
+                                </Card.Body>
+
+                            </Card></Col>
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      </Row>
+      
+               <br></br>
+                    <h4 className="lead" align="center"><b>OJIMC</b></h4>
+                    <br></br>
+                    <Row>
+                   
+                                         <Col lg={4}>
+                     <Card className="skill-nbcard">
+            
+                                <Card.Body>
+                                     <div class={darkMode ? "lead" : "lead"}>OJIMC 2021 Day 1</div>      <br></br>       
+                                    <Card.Text align="left">
+                                                 
+                                       <a  href="https://mail-attachment.googleusercontent.com/attachment/u/1/?ui=2&ik=e3eea35a15&attid=0.3&permmsgid=msg-f:1722943964661818565&th=17e92068459224c5&view=att&disp=inline&saddbat=ANGjdJ-gDNcfv0At4SFXwpim6eM47sujXe_cOAR1X-m-SX8p31nh0Dv_kS20hHMTiVOlyV6xcBYWVy9e3tZ7VVTDgSDVkUlC0F8y5lrENaCZN3JVflxx_0BePm3jsW8aq-bZ0S7_vGqqL86XOwvwv4dp166-tBwOoS_pzwZN1V13fGbaf3WcEiS-d0PQsKGeqNXt3omfyaIWACGumQ6LlErjJ4UeZf9V5DQCco46rzOVJqPpyBPnXs1L_t7P72_5789YcgTPiJRXlRPXnsrxgXqtoZ4yJwxTQvhnakC_DyDxCKaU7OKQpXynp-cCgOCr7FX4OcwIQ-fuQ3Hss7oQdraCwZB_WWk6kZ6D0rmZMdoEI-_-N2-SbodVE5hwI1GsXUUGO3N0SHBLesFiJSh1JXWjW-E4GJxgCQAwwQNLSlat2Kr0_4vom5Zs0BrF978DmGE61Qy20O9nV3hXl6helCGYHQ-6R-eUtvKc5oQg9QUuq1is2IzGuAyRstnKVh9qlj9dJTP5CL4arP0KVkePOQhkspt5c2kLF9Be12YDtxG-iIwNdEzR_n9wv2iUuiO58kRbo2oPKnLQnB_P_JAk2elSOD_CWuje9KcvEIrj6S5QHDqm6EZw3kzqVdjaeO9VFyPSI2038jyBM8fzqsfIv8PyegsaDxQbtR1eRfllV1ra7tB8zQYSjhxgNNg-A7k" > 
+                                           {darkMode? <MagicalButton align="left">Download</MagicalButton> : <Mdark  align="left">Download</Mdark>}  
+                                          </a>&nbsp;&nbsp; </Card.Text>
+ 
+                                </Card.Body>
+
+                            </Card></Col>
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      <Col lg={4}>
+                     <Card className="skill-nbcard">
+            
+                                <Card.Body>
+                                     <div class={darkMode ? "lead" : "lead"}>OJIMC 2021 Day 2</div>      <br></br>       
+                                    <Card.Text align="left">
+                                                 
+                                       <a  href="https://mail-attachment.googleusercontent.com/attachment/u/1/?ui=2&ik=e3eea35a15&attid=0.4&permmsgid=msg-f:1722943964661818565&th=17e92068459224c5&view=att&disp=inline&saddbat=ANGjdJ_7Ar_GEW1yP_1B-Y6WZNjwRnfB_uocmHa-5KiqWALu6G4w0ZgqExblEeEMzAZ3XiOS8Aqa2-QO0kU07O0n6XNW-wdJ7HQUuIwqrF5E7nPYF7-aHN9USpawCOqTPBnB8lDmWloU91Wf4yATQgGR3j8bp7TDCxGTXBYSOlP636Px4n7BCbIRdsQDywpbdC5N-QjYJ1VkEyU1PIWqNQoOFhxviW5xHaHeTe8kUIEv5nJF5JKGXmaBNHzBbZ_TM0SNpImqJ_d7WOoyv-46giZiq2GmUNUSJA287B0bFv1fftJMT73z8Hd5V8tqFKz_Rj60vRcky5UmjkWPftGUnVj6aqjRcLY665i0vscCrEDPUTX3s6rAeoFwvHv_Pqc5COmKck-abTY8L4LawEP1N0L_bdfWTAi2NQXVdPottwMVzsrI1aEp2T5L05-WzVccmCX3mhYLN-e0bunozuo1gJFIFu5GyxTCJIGyF4apZ6R-f5dz68QRbyZkCsOvc8ngaT3ATVhgkBAQ2DAeAD6N6Wrpab8Ulwvs6QTRv5M0rhGzucrufL12g02zPUDH3OCo0xF5KmWQJwjbYm1ClMeADy5XAl-8oHmMhR04YOy5XLuSnkeOkGjpCxPotpzCF-IOM6Txiok3psFGh-5-Xow_JL9DY2XDFW7WGu3-N3xDY7i6RC6UDkNvIEIwAo5DCOohttps://mail-attachment.googleusercontent.com/attachment/u/1/?ui=2&ik=e3eea35a15&attid=0.2&permmsgid=msg-f:1722943964661818565&th=17e92068459224c5&view=att&disp=inline&saddbat=ANGjdJ9YedWmE4UVDJwAcNOtl12b_Gu4kpd_ZXjM9moEl69Zakp8MUhf-WherZM0N18UWvjbye8G-RzIGfzS3EsVGm8dHQdN4gMRvmGtumGchCdJ-Q4SBrq5p3Bz57NsXKl9ThhBvDwdGQ6ZFRz-viZ-vsAWBKwqoju4nwMPz8zRNNbYPmpVKNlHJBDxyEMxY9gOW8D8PZVeVZFcCjpD9g5ppGkH0tv87u5mdFzWbOTs_O_qX2i-Qp9M3aJU3Lietz9WAKwyCb4Op1wvz2ThO0uMUCcFMruyjhuSuqNno8d3-TYwfd4VMsG1zsu_ZenWLWAHfPhXUWw1XQBuhTP5Mp1jI7AF8vmcol_WX1b3ndqUV7f1-k2ogUpngLCnNx-uFbgQbvla2POfEzXSoYotOozUrMvdfZg06EmkZyAfINgm7UB2jQt5WntBVVNkGIsYT5QYl1va-lecIpI0ZvX5GwqKbk_MiYCNvbkrtabHNl4Z6kNtfrReBDbqaPIF0JJrNv424rwzrE8aJtfnDLlNBSHl8w9qTCLPVvDKFACTR2eICFrRuk3yBVzmp9anR9VCFJhlhGJTdabr1K4jycmlYPrv8DIt5-CwzzMkQO4m5v5FUrEzG_vfsA3ykmKzsJSYkjotGdr_5dpGiPmVdeBd0fB_dYs3v0nSaxGPG-3QL6TUkdpCcHZGjSYajYvkXI4" > 
+                                           {darkMode? <MagicalButton align="left">Download</MagicalButton> : <Mdark  align="left">Download</Mdark>}  
+                                          </a>&nbsp;&nbsp; </Card.Text>
+ 
+                                </Card.Body>
+
+                            </Card></Col>
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      </Row>
                 </Container>
             </Slide>
         </div>
