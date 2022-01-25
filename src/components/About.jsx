@@ -156,7 +156,7 @@ const About = ({ darkMode }) => {
                <Card className="skill-nbcard">
                              
                                    <Card.Header><div class="lead"><h5>Some fun events</h5></div></Card.Header>
-                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Well besides mathematics, here some other certian kind of events too take place such as some creative contests like a olympiad style problem writting contest, some games such as chess contest and much more things.
+                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Well besides mathematics, here some other certian kind of events too take place such as some creative contests like a <b className="footer-text">olympiad style problem writting contest</b>, some games such as <b className="footer-text">chess contest</b> and much more things.
 <br></br>
 
 
@@ -169,7 +169,7 @@ const About = ({ darkMode }) => {
                <Card className="skill-nbcard">
                              
                                    <Card.Header><div class="lead"><h5> I found a error in material</h5></div></Card.Header>
-                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Whenever you face any type of error or other typographical mistakes in any kind of material, first of all shoot a message to the material author personaly, in 
+                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Whenever you face any type of error or other <b className="footer-text">typographical mistakes</b> in any kind of material, first of all shoot a message to the material author personaly, in 
                                       case he/she does not respond to you in a day or two, you can then contact us via our official mail.
 <br></br>
 
@@ -183,7 +183,7 @@ const About = ({ darkMode }) => {
                <Card className="skill-nbcard">
                              
                                    <Card.Header><div class="lead"><h5>How can we contact GC staff</h5></div></Card.Header>
-                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> You can email at our offcial gmail account which is gaussiancurv180@gmail.com  or you can contact us through the contact form on the contact us page. Feel free to contact us anytime you face any kind of problem.
+                                    <Card.Body>   <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> You can email at our offcial gmail account which is <b className="footer-text">gaussiancurv180@gmail.com</b>  or you can contact us through the contact form on the contact us page. Feel free to contact us anytime you face any kind of problem.
 <br></br>
 
 
