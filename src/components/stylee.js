@@ -56,7 +56,7 @@ export const Mdark = styled.b`
           box-shadow: rgb(25, 227, 163) 2px 2px 3px 3px; 
     }
     @media (max-width: 380px) {
-      margin: 0 auto 1.5rem auto;
+      margin: none;
     }
   }
 `
