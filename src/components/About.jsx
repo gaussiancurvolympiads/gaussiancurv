@@ -115,9 +115,9 @@ const About = ({ darkMode }) => {
                <Card className="skill-nbcard">
                            
                     <Card.Header><div class= "lead"><h5>Starting Works and Experience</h5></div></Card.Header>      <Card.Body> 
-                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Along the start of Gaussian Curvature Project from our whole hard working and sincere team  of GC some peoples deserves a special mention in GC, 6 of my friends <b>Orestis Lignos, Agamjeet Singh, Agaman Chatterjee, Papon Lapate, i3435, Arkan Manva</b>  who helped in their all ways with me to curve the GC in a elegant way. As time past we improved our methods and new members were added in GC, this might be a time in between but thats when other
+                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> Along the start of the Gaussian Curvature Project from our whole hard working and sincere team  of GC some peoples deserves a special mention in GC, 6 of my friends <b>Orestis Lignos, Agamjeet Singh, Agaman Chatterjee, Papon Lapate, i3435, Arkan Manva</b>  who helped in their all ways with me to curve the GC in a elegant way. As time past we improved our methods and new members were added in GC, this might be a time in between but thats when other
                     members joined  and later some others  also deserves a special mention such as <b>gghx, Starchan, Patrick Lu</b> and some other members and finally maybe after some more time(might the mid point of GC's age) someone joined who too deservers a special mention and his name is <b>Vlad Spataru</b> who was also very energetic like the initial 6. More new members have joined in by the year and I hope they too help GC the same way the other members did.
- All team members experienced a great time in GC along the time and we all became like a family now. As a formal and humorous warning, if you are not a GC staff never try to trespass or join our discord staff server, because it's all comedy of errors there.
+ All team members experienced a great time in GC along the time and we all became like a family now.
  <br></br>
 
 
