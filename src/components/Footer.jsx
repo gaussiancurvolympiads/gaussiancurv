@@ -38,18 +38,16 @@ const Footer = ({ darkMode }) => {
           </Column>
           <Column>
             <Heading><h5>Interact</h5></Heading>
-            <FooterLink href="https://gcurvature.vercel.app/contact">Contact Form</FooterLink>
-            <FooterLink href="gaussiancurv180@gmail.com">Email</FooterLink>
-            <FooterLink href="https://discord.gg/yTKuF9GUtP">Discord</FooterLink>
+                 <FooterLink href="gaussiancurv180@gmail.com">Email</FooterLink>
+            <FooterLink href="https://discord.gg/vxmpsSSzuz">Discord</FooterLink>
+      <FooterLink href="https://gcurvature.vercel.app/contact">Contact Form</FooterLink>
           </Column>
                 
         </Row>
       
       </Container>
 <br/><br/><br/>
-  );
-};
-        </div>
+    </div>
     )
 }
 
