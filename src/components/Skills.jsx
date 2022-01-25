@@ -127,7 +127,7 @@ const Skills = ({ darkMode }) => {
                      <Card className="skill-nbcard">
             
                                 <Card.Body>
-                                     <div class={darkMode ? "lead" : "lead"}>MMO 2020 Day 1</div>  MMO 2020 Day 1   <br></br>       
+                                     <div class={darkMode ? "lead" : "lead"}>MMO 2020 Day 1</div>    <br></br>       
                                     <Card.Text align="left">
                                                  
                                        <a  href="https://aritra-12.github.io/pdfs/MMO%202020%20DAY%201.pdf" > 
