@@ -7,8 +7,6 @@ import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Tab from 'react-bootstrap/Tab'
 import Tabs from 'react-bootstrap/Tabs'
-import helloLight from '../components/images/GC image.png';
- import helloDark from '../components/images/GC image.png';
 
 function ControlledTabs() {
   const [key, setKey] = useState('home');
@@ -99,8 +97,8 @@ const Team = ({ darkMode }) => {
       <br></br>
       <Fade>
         <Container align='center'>
-     <br></br> <img src={darkMode ? helloDark : helloLight} alt="hello" className="hello-img" width="135" />
-                   <p> <h2 className="lead" align="center"><b>Gaussian Curvature Team</b></h2> </p>
+     <br></br>
+                   <p> <h2 className="lead" align="center"><b>GC TEAM</b></h2> </p>
                     <br></br>
           <Row>    
 
