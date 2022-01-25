@@ -6,7 +6,7 @@ import Row from 'react-bootstrap/esm/Row'
 import Col from 'react-bootstrap/Col'
 import Card from 'react-bootstrap/esm/Card';
 
-import { Mdark, Flex, MagicalButton } from './stylee';
+import { Mdark, MagicalButton } from './stylee';
 
   
 
@@ -45,10 +45,10 @@ const Skills = ({ darkMode }) => {
                                       <Card.Text align="left">
                                              
   <a href="https://aritra-12.github.io/pdfs/MMO%202020%20DAY%202.pdf" >
-                                 <Flex>
-       {darkMode? <MagicalButton align="left">Download</MagicalButton> :   <Mdark  align="left">Download</Mdark>}
+                             
+       {darkMode? <MagicalButton align="left">Download</MagicalButton> : <Mdark  align="left">Download</Mdark>}
 
-      </Flex>        
+       
                                         </a>&nbsp;&nbsp;</Card.Text>
                                 </Card.Body>
 
