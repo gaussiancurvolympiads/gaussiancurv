@@ -104,7 +104,7 @@ function App() {
 </Route>
 <Route path="/mmo2020">
     <Navbar expand="lg" className="navbar" data-theme={darkMode ? "light" : "light"}>
-            <Navbar.Brand href="#home" className="navname"><img src={darkMode ? helloDark : helloLight} alt="hello" className="hello-img" width="100" /> </Navbar.Brand>
+            <Navbar.Brand href="#home" className="navname"> </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
