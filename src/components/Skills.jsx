@@ -23,13 +23,13 @@ const Skills = ({ darkMode }) => {
                     <Row>
                       <Col lg={6}>
                      <Card className="skill-nbcard">
-               <Card.Header><div class={darkMode ? "lead" : "lead"}>MMO 2021 Day 1</div></Card.Header>
+            
                                 <Card.Body>
-                                              
+                                     <div class={darkMode ? "lead" : "lead"}>MMO 2020 Day 1</div>         
                                     <Card.Text align="left">
                                                    
                                        <a  href="https://aritra-12.github.io/pdfs/MMO%202020%20DAY%201.pdf" > 
-                                           <Mdark  align="left">Download</Mdark>  
+                                           {darkMode? <MagicalButton align="left">Download</MagicalButton> : <Mdark  align="left">Download</Mdark>}  
                                           </a>&nbsp;&nbsp; </Card.Text>
  
                                 </Card.Body>
@@ -38,9 +38,9 @@ const Skills = ({ darkMode }) => {
  <Col lg={6}>
                             <Card className="skill-nbcard">
                             
-                           <Card.Header><div class={darkMode ? "lead" : "lead"}>MMO 2020 Day 2</div></Card.Header>
+                          
                                 <Card.Body >
-                                      
+                                      <div class={darkMode ? "lead" : "lead"}>MMO 2020 Day 2</div>
                                       
                                       <Card.Text align="left">
                                              
