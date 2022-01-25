@@ -1,11 +1,11 @@
 import { useState, React } from 'react'
 import { Slide } from "react-awesome-reveal";
 import Container from 'react-bootstrap/esm/Container'
-import Button from 'react-bootstrap/esm/Button'
+
 import Row from 'react-bootstrap/esm/Row'
 import Col from 'react-bootstrap/Col'
 import Card from 'react-bootstrap/esm/Card';
-import Alert from 'react-bootstrap/Alert';
+
 import { Mdark } from './stylee';
 
   
