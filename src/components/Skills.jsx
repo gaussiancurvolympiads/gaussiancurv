@@ -39,6 +39,7 @@ const Skills = ({ darkMode }) => {
                                 </Card.Body>
 
                             </Card></Col>
+                             
  <Col lg={6}>
                             <Card className="skill-nbcard">
                            
