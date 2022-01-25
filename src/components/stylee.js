@@ -18,7 +18,7 @@ export const MagicalButton = styled.a`
     transition: 0.5s;
   }
   &:first-child {
-    margin-right: 1rem;
+    margin-right: none;
     background: #f9f9f9;
     color: #00c3ff;
     box-shadow: rgb(185, 185, 185) 0px 13px 19px -6px;
