@@ -1,7 +1,5 @@
 import './App.css';
 import React from 'react'
-import helloLight from '../src/GC image.png';
-import helloDark from '../src/GC image.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'font-awesome/css/font-awesome.min.css';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
@@ -39,7 +37,7 @@ function App() {
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
                   <Nav.Link href="https://gcurvature.vercel.app/" className="link">{darkMode?  <MagicalButton>  Home </MagicalButton> : <Mdark>Home</Mdark> }</Nav.Link>
-                    <Nav.Link href="https://gcurvature.vercel.app/about" className="link">{darkMode? <MagicalButton>About Us</MagicalButton> : <Mdark>About</Mdark> }</Nav.Link>
+                    <Nav.Link href="https://gcurvature.vercel.app/about" className="link">{darkMode? <MagicalButton>About</MagicalButton> : <Mdark>About</Mdark> }</Nav.Link>
                     <Nav.Link href="https://gcurvature.vercel.app/team" className="link">{darkMode? <MagicalButton>Team</MagicalButton> : <Mdark>Team</Mdark> }</Nav.Link>
                     <Nav.Link href="https://gcurvature.vercel.app/mmo2020" className="link">{darkMode? <MagicalButton>Contests</MagicalButton> : <Mdark>Contests</Mdark> }</Nav.Link>
                     <Nav.Link href="https://gcurvature.vercel.app/contact" className="link">{darkMode? <MagicalButton>Contact</MagicalButton> : <Mdark>Contact</Mdark> }</Nav.Link>
@@ -62,7 +60,7 @@ function App() {
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
                  <Nav.Link href="https://gcurvature.vercel.app/" className="link">{darkMode?  <MagicalButton>  Home </MagicalButton> : <Mdark>Home</Mdark> }</Nav.Link>
-                    <Nav.Link href="https://gcurvature.vercel.app/about" className="link">{darkMode? <MagicalButton>About Us</MagicalButton> : <Mdark>About</Mdark> }</Nav.Link>
+                    <Nav.Link href="https://gcurvature.vercel.app/about" className="link">{darkMode? <MagicalButton>About</MagicalButton> : <Mdark>About</Mdark> }</Nav.Link>
                     <Nav.Link href="https://gcurvature.vercel.app/team" className="link">{darkMode? <MagicalButton>Team</MagicalButton> : <Mdark>Team</Mdark> }</Nav.Link>
                     <Nav.Link href="https://gcurvature.vercel.app/mmo2020" className="link">{darkMode? <MagicalButton>Contests</MagicalButton> : <Mdark>Contests</Mdark> }</Nav.Link>
                     <Nav.Link href="https://gcurvature.vercel.app/contact" className="link">{darkMode? <MagicalButton>Contact</MagicalButton> : <Mdark>Contact</Mdark> } </Nav.Link>
@@ -87,7 +85,7 @@ function App() {
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
                    <Nav.Link href="https://gcurvature.vercel.app/" className="link">{darkMode?  <MagicalButton>  Home </MagicalButton> : <Mdark>Home</Mdark> }</Nav.Link>
-                    <Nav.Link href="https://gcurvature.vercel.app/about" className="link">{darkMode? <MagicalButton>About Us</MagicalButton> : <Mdark>About</Mdark> }</Nav.Link>
+                    <Nav.Link href="https://gcurvature.vercel.app/about" className="link">{darkMode? <MagicalButton>About</MagicalButton> : <Mdark>About</Mdark> }</Nav.Link>
                     <Nav.Link href="https://gcurvature.vercel.app/team" className="link">{darkMode? <MagicalButton>Team</MagicalButton> : <Mdark>Team</Mdark> }</Nav.Link>
                     <Nav.Link href="https://gcurvature.vercel.app/mmo2020" className="link">{darkMode? <MagicalButton>Contests</MagicalButton> : <Mdark>Contests</Mdark> }</Nav.Link>
                     <Nav.Link href="https://gcurvature.vercel.app/contact" className="link">{darkMode? <MagicalButton>Contact</MagicalButton> : <Mdark>Contact</Mdark> }</Nav.Link>
@@ -154,7 +152,7 @@ function App() {
 </Route>
 <Route path="/contact">
     <Navbar expand="lg" className="navbar" data-theme={darkMode ? "dark" : "light"}>
-            <Navbar.Brand href="#home" className="navname">  <img src={darkMode ? helloDark : helloLight} alt="hello" className="hello-img" width="100" /></Navbar.Brand>
+            <Navbar.Brand href="#home" className="navname">  </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
@@ -178,7 +176,7 @@ function App() {
 </Route>
 <Route path="/anonymous">
     <Navbar expand="lg" className="navbar" data-theme={darkMode ? "dark" : "light"}>
-            <Navbar.Brand href="#home" className="navname">  <img src={darkMode ? helloDark : helloLight} alt="hello" className="hello-img" width="150" /></Navbar.Brand>
+            <Navbar.Brand href="#home" className="navname"> </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
