@@ -53,7 +53,7 @@ export const Mdark = styled.b`
     color: #19e3a3;
       box-shadow: 0px 0px 17px 0px rgba(25, 227, 163, 0.4);
  &:hover {
-          box-shadow: rgb(25, 227, 163) 1px 1px 0px 2px; 
+          box-shadow: rgb(25, 227, 163) 1px 1px 0px 1px; 
     }
     @media (max-width: 380px) {
       margin: none;
