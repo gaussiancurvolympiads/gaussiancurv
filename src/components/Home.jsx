@@ -6,7 +6,9 @@ import Card from 'react-bootstrap/Card'
 import Container from 'react-bootstrap/Container'
 import { AttentionSeeker } from 'react-awesome-reveal';
 import { MagicalButton, Flex, Mdark } from './stylee';
-
+import {
+ FooterLink,
+} from "./FooterStyles";
 const Home = ({ darkMode }) => {
  
 
@@ -36,7 +38,7 @@ const Home = ({ darkMode }) => {
 <div align="center" class="text-secondary" >  
 <div align="center" class="lead">
  
-            <h5 align="center"> GC has turned over one year, check here about <a href="https://artofproblemsolving.com/community/c5h2766985p24238194" class="lead"><h5>OPMC</h5></a>  </h5> </div> 
+            <h5 align="center"> GC has turned over one year, check out <FooterLink  href="https://artofproblemsolving.com/community/c5h2766985p24238194"><h5>OPMC</h5></a>  </h5> </div> 
            
 </div>
  
