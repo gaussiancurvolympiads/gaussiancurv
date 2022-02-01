@@ -18,7 +18,7 @@ export const MagicalButton = styled.a`
     transition: 0.5s;
   }
   &:first-child {
-    margin-right: 1rem;
+    margin-right: none;
     background: #f9f9f9;
     color: #00c3ff;
     box-shadow: rgb(185, 185, 185) 0px 13px 19px -6px;
@@ -36,27 +36,28 @@ export const Mdark = styled.b`
   padding: 0.9rem 1.4rem;
   background: #19e3a3;
   border-radius: 0.3rem;
-  box-shadow: rgba(25, 227, 163, .9) 0px 13px 19px -6px;
+  box-shadow: 0px 0px 17px 0px rgba(25, 227, 163, 0.4);
   transition: 0.5s;
   @media (max-width: 380px) {
     width: 80%;
-     margin: 0 auto;
+    margin: 0 auto;
     text-align: center;
   }
   &:hover {
-    box-shadow: 0px 0px 17px 0px rgba(25, 227, 163, 0.36);
+    box-shadow: rgba(25, 227, 163, .9) 0px 13px 19px -6px;
     transition: 0.5s;
   }
   &:first-child {
     margin-right: 1rem;
     background: #272628;
     color: #19e3a3;
-    box-shadow: rgb(25, 227, 163) 0px 13px 19px -6px;
-    &:hover {
       box-shadow: 0px 0px 17px 0px rgba(25, 227, 163, 0.4);
+ &:hover { 
+            textDecoration: 'none';
+          box-shadow: rgb(25, 227, 163) 1px 1px 0px 1px; 
     }
     @media (max-width: 380px) {
-    margin: 0 auto 1.5rem auto;
+      margin: none;
     }
   }
 `
@@ -80,5 +81,4 @@ export const Flex = styled.div`
     flex-direction: column;
   }
   `
-  
   
