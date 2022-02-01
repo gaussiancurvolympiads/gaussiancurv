@@ -138,11 +138,11 @@ const Team = ({ darkMode }) => {
 <li class={darkMode? "text-secondary" : "text-light"}>Archit Manas, India</li>
 <li> i3435, USA </li> 
  <li class={darkMode? "text-secondary" : "text-light"}>Andre Luis, Bolivia</li>
-<li>Squareman, USA</li>
+<li>Evan Chang, USA</li>
  <li class={darkMode? "text-secondary" : "text-light"}>GGHX, Singapore</li>
- <li>Jupiter_is_Big, India</li>
+ <li>Anand, India</li>
  <li class={darkMode? "text-secondary" : "text-light"}>Vald Spataru, Romania</li>
-<li>phoenixfire, India</li>
+<li>Arkan Manva, India</li>
 <li class={darkMode? "text-secondary" : "text-light"}>Fedir Yudin, Ukraine</li>
 <li>Sealsrock, USA</li>
 <li class={darkMode? "text-secondary" : "text-light"}>ELectroWiz, USA</li>
@@ -179,20 +179,20 @@ const Team = ({ darkMode }) => {
                                               
 <b>
  
-<li class={darkMode? "text-secondary" : "text-light"}>Amar_04, India</li>
- <li>Awesome_Guy, USA</li>
+<li class={darkMode? "text-secondary" : "text-light"}>Agaman Chatterjee, India</li>
+ <li>Patrick Lu, USA</li>
 <li class={darkMode? "text-secondary" : "text-light"}>Anirrudha Sharma, India</li> 
 
-<li>Mathicorn, USA</li>
+<li>Hanna Chen, USA</li>
 <li class={darkMode? "text-secondary" : "text-light"}>Ramtin cheraghi nia, Iran</li>
 <li>Sherlock, Iran</li>
 
-<li class={darkMode? "text-secondary" : "text-light"}>lneis1, India</li>
-<li>EmilXM, Azerbaijan</li>
+<li class={darkMode? "text-secondary" : "text-light"}>Samarth, India</li>
+<li> Emil Khalilov , Azerbaijan</li>
 
 
-<li class={darkMode? "text-secondary" : "text-light"}>pog, USA</li>
-<li>v4913, USA</li>
+<li class={darkMode? "text-secondary" : "text-light"}>Ryan Shin, USA</li>
+<li>Vivian Loh, USA</li>
 <li class={darkMode? "text-secondary" : "text-light"}>Aryan-23, India</li>
 <li>player_01, Unknown</li>
 <li class={darkMode? "text-secondary" : "text-light"}>CyclicISLscelesTrapezoid, USA</li>
