@@ -107,13 +107,13 @@ const Team = ({ darkMode }) => {
                                 <Card.Body>
                                    
                                     <Card.Text><ul align="left">
-                                       <b>     <li class={darkMode? "text-secondary" : "text-light"}>MNJ2357, Korea</li>   <li>TLP.39, Thailand</li> <li class={darkMode? "text-secondary" : "text-light"}>IndoMathXDZ, Indonesia</li>  <li>Aritra12, India</li> <li class={darkMode? "text-secondary" : "text-light"}>k12byda5h, Thailand</li><li>CANBANKAN, Canada</li>
+                                       <b>     <li class={darkMode? "text-secondary" : "text-light"}>Jimin Kim, Korea</li>   <li>Papon Lapate, Thailand</li> <li class={darkMode? "text-secondary" : "text-light"}>Valentino Iverson, Indonesia</li>  <li>Aritra Mondal, India</li> <li class={darkMode? "text-secondary" : "text-light"}>k12byda5h, Thailand</li><li>Kaixin Wang, Canada</li>
 
        
 
  <li class={darkMode? "text-secondary" : "text-light"}>EpicNumberTheory, India</li>
 
- <li>Orestis Lignos, Greece</li> <li class={darkMode? "text-secondary" : "text-light"}>Jelena, India</li> <li>sk_pi3145, USA</li>  <li class={darkMode? "text-secondary" : "text-light"}>Justin Lee, USA</li> <li>NJOY, India</li><li class={darkMode? "text-secondary" : "text-light"}>L567, India</li><li>Borao, Switzerland</li>
+ <li>Orestis Lignos, Greece</li> <li class={darkMode? "text-secondary" : "text-light"}>Sunaina Pati, India</li> <li>sk_pi3145, USA</li>  <li class={darkMode? "text-secondary" : "text-light"}>Justin Lee, USA</li> <li>NJOY, India</li><li class={darkMode? "text-secondary" : "text-light"}>Atul Nadig, India</li><li>Bora Olmez, Switzerland</li>
 
 
 
@@ -135,15 +135,15 @@ const Team = ({ darkMode }) => {
                                               
 <b>
  
-<li class={darkMode? "text-secondary" : "text-light"}>Starchan, India</li>
+<li class={darkMode? "text-secondary" : "text-light"}>Archit Manas, India</li>
 <li> i3435, USA </li> 
- <li class={darkMode? "text-secondary" : "text-light"}>MathLuis, Bolivia</li>
+ <li class={darkMode? "text-secondary" : "text-light"}>Andre Luis, Bolivia</li>
 <li>Squareman, USA</li>
  <li class={darkMode? "text-secondary" : "text-light"}>GGHX, Singapore</li>
  <li>Jupiter_is_Big, India</li>
- <li class={darkMode? "text-secondary" : "text-light"}>oVlad, Romania</li>
+ <li class={darkMode? "text-secondary" : "text-light"}>Vald Spataru, Romania</li>
 <li>phoenixfire, India</li>
-<li class={darkMode? "text-secondary" : "text-light"}>Mindstormer, Ukraine</li>
+<li class={darkMode? "text-secondary" : "text-light"}>Fedir Yudin, Ukraine</li>
 <li>Sealsrock, USA</li>
 <li class={darkMode? "text-secondary" : "text-light"}>ELectroWiz, USA</li>
 
