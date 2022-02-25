@@ -150,6 +150,8 @@ const Team = ({ darkMode }) => {
 <li >saadbd, Bangladesh</li>
 <li class={darkMode? "text-secondary" : "text-light"}>Spiderduckpig, USA</li>
 
+<li >Vedant Saini, India</li>
+
 
 
 
