@@ -53,7 +53,7 @@ const Home = ({ darkMode }) => {
             <Col lg={15} align='left'>
           <Card className="skill-nbcard">   
              
-                                <Card.Body>  <div class= "lead" >About Us</div><br></br>
+                                <Card.Body>  <div class= "lead" align="center" >About Us</div><br></br>
                                    
                                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}> The Gaussian Curvature team consists of Math Olympiad students who enjoy Mathematics to a great extent. We aim to help others discover their love for Mathematics beyond the school syllabus, and to develop their passion for problem-solving. Through our training materials and contests, we hope to help those who have a keen interest in Math Olympiad excel.
 <br></br>
