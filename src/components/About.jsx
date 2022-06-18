@@ -104,11 +104,11 @@ const About = ({ darkMode }) => {
                  <h1 class="fancy" align="center"><b>About</b></h1></div><br/><br/>
                  
                            
-                      <Card.Body>  <div class= "zed">GC Establishment</div> <br></br>
+                      <Card.Body>  <div class= "zed">Gaussian Curvature Establishment</div> <br></br>
                      <Card.Text align="left" class={darkMode? "text-dark" : "text-light"}>This will be relatively short otherwise, the details 
-                     might bore you. <b className="footer-text">Gaussian Curvature</b> was founded by <b className="footer-text">me (Aritra Mondal, Aritra12)</b>
+                     might bore you. Gaussian Curvature was founded by <p class="fancy">me (Aritra Mondal, Aritra12)</p>
                        during the beginning of the Corona Virus pandemic in the <b className="footer-text">December of 2020</b> when 
-everything was being shifted online. This implicates that GC is now <b className="footer-text">over a year old</b>. Someday I (Aritra)
+everything was being shifted online. This implicates that GC is now over a year old now. It is a <p class="fancy">non profit organisation</p> which aimes to improve the quality of education precisely in the field of mathematics, not just olympiads but other arenas of mathematic too. Someday I (Aritra)
 will say more about it, but for now, this should suffice.
 <br></br>
 
