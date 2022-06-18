@@ -87,6 +87,9 @@
     color: var(--hello);
   font-weight: 500;
 }
+.fancy{
+    color: var(--hello);
+}
 .hyperhead{
   color: var(--name);
 }
