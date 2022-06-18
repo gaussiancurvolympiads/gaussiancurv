@@ -107,7 +107,7 @@ code{
     margin-top: 80px;
 }
 .nbcard{
-    background-color: var(--page-color);
+    background-color: var(--name);
     color: var(--hello);
     padding: 10px;
     border: none;
