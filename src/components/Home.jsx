@@ -50,7 +50,7 @@ const Home = ({ darkMode }) => {
             <br></br>
            <div align="center">
       <Container align="center"> <Row align="center">
-            <Col lg={10} xs={10}>
+            <Col lg={12} xs={12}>
           <Card className="skill-nbcard">   
              
                                 <Card.Body>  <div class= "lead" align="center" >About Us</div><br></br>
