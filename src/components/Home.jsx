@@ -38,7 +38,7 @@ const Home = ({ darkMode }) => {
 <div align="center" class="text-secondary" >  
 <div align="center" class="lead">
  
-            <h5 align="center"> GC has turned over one year, check out <FooterLink  href="https://artofproblemsolving.com/community/c5h2766985p24238194"><h5>OPMC</h5></FooterLink>  </h5> </div> 
+            <h5 align="center"> GIMO year 2 is coming soon!  </h5> </div> 
            
 </div>
  
