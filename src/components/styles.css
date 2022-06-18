@@ -97,8 +97,8 @@
 }
 
 .zed{  color: var(--description);
-    font-size: 20px;
-    font-weight: 500;
+    font-size: 28px;
+    font-weight: 600;
 }
 .head{
     color: var(--heady);
