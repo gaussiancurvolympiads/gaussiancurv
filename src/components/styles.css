@@ -152,7 +152,7 @@ strong, .with{
   color: var(--aritra);
 }
 .skill-nbcard{
-    color: var(--name);
+    color: var(--text-color);
     margin-top: 10px;
     background-color: var(--aritra);
     box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
