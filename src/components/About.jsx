@@ -101,7 +101,7 @@ const About = ({ darkMode }) => {
           <Row>
             <Col lg={12} xs={12} align='left'>
                <Card className="skill-nbcard"><div align="center">
-                 <h3 class="display-3" align="center">About US</h3></div><br/><br/>
+                 <h4 class="display-3" align="center">About US</h4></div><br/><br/>
                  
                            
                       <Card.Body>  <div class= "zed">GC Establishment</div> <br></br>
