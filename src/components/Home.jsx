@@ -19,7 +19,7 @@ const Home = ({ darkMode }) => {
             <AttentionSeeker effect="pulse">  
                 <Row>  
    <Particles />
-                    <Col lg={12} xs={12}>
+                    <Col lg={10} xs={10}>
      
                         <h2 className="display-3 hello" align="center"><b>  Gaussian Curvature </b> </h2>
                         <h2 className="lead" align="center">
@@ -49,8 +49,8 @@ const Home = ({ darkMode }) => {
 
             <br></br>
            
-      <Container align='center'> <Row>
-            <Col lg={10} align='center'>
+      <Container align="center"> <Row align="center">
+            <Col lg={10} align="center">
           <Card className="skill-nbcard">   
              
                                 <Card.Body>  <div class= "lead" align="center" >About Us</div><br></br>
