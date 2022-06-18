@@ -99,7 +99,8 @@
     font-weight: 700;
 }
 
-.zed{  color: var(--description);
+.zed{  color: var(--description);  
+  font-family: Helvetica, Arial, sans-serif;
     font-size: 28px;
     font-weight: 600;
 }
