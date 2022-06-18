@@ -38,7 +38,7 @@ const Home = ({ darkMode }) => {
 <div align="center" class="text-secondary" >  
 <div align="center" class="lead">
  
-            <h5 align="center"> GIMO year 2 is coming soon!  </h5> </div> 
+             <align="center"">   </> </div> 
            
 </div>
  
