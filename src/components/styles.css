@@ -96,6 +96,10 @@
     font-weight: 700;
 }
 
+.zed{  color: var(--description);
+    font-size: 20px;
+    font-weight: 500;
+}
 .head{
     color: var(--heady);
     font-size: xx-large;
