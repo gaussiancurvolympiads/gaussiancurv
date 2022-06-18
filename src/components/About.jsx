@@ -102,8 +102,8 @@ const About = ({ darkMode }) => {
             <Col lg={12} align='left'>
                <Card className="skill-nbcard">
                            
-                    <Card.Header><div class= "lead"><h5>GC Establishment </h5></div></Card.Header>      <Card.Body> 
-                     <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>This will be relatively short otherwise, the details might bore you. <b className="footer-text">Gaussian Curvature</b> was founded by <b className="footer-text">me (Aritra Mondal, Aritra12)</b> during the beginning of the Corona Virus pandemic in the <b className="footer-text">December of 2020</b> when everything was being shifted online. This implicates that GC is now <b className="footer-text">over a year old</b>. Someday I (Aritra) will say more about it, but for now, this should suffice.
+                      <Card.Body>  <div class= "lead"><h5>GC Establishment </h5></div> 
+                     <Card.Text align="left" class={darkMode? "text-dark" : "text-light"}>This will be relatively short otherwise, the details might bore you. <b className="footer-text">Gaussian Curvature</b> was founded by <b className="footer-text">me (Aritra Mondal, Aritra12)</b> during the beginning of the Corona Virus pandemic in the <b className="footer-text">December of 2020</b> when everything was being shifted online. This implicates that GC is now <b className="footer-text">over a year old</b>. Someday I (Aritra) will say more about it, but for now, this should suffice.
 <br></br>
 
 
@@ -116,8 +116,13 @@ const About = ({ darkMode }) => {
                            
                     <Card.Header><div class= "lead"><h5>Starting Works and Experience With Team</h5></div></Card.Header>      <Card.Body> 
                      <Card.Text align="left" class={darkMode? "text-secondary" : "text-light"}>Since the beginning of the Gaussian Curvature Project, there are some people from the entire hard working and sincere team of GC who deserve a special mention; Six of my friends <b className="footer-text"> Agaman Chatterjee, Agamjeet Singh, Arkan Manva, Krishna Pothapragada, Orestis Lignos, Papon Lapate </b> the <b className="footer-text">founder team members</b>who helped me in their own ways to curve GC in an elegant way. 
-. As time passed we improved our methods and new members were added to GC. Some of these newer members also deserve special mentions. They are <b className="footer-text">gghx, Archit Manas, Patrick Lu</b>. During the past year (2021), one person who joined the team, who too deserves a special mention, is  <b className="footer-text">Vlad Spataru</b> He was very energetic, like the initial six. An interesting experience with him was the OIMC contest (founded by Vlad) which flourished quite well. (It now has a junior version, OJIMC, as well.) 
-Many members have joined GC in the years and I hope they too help GC the same way the mentioned members have. The team has had various experiences and a great time in GC. Now, the GC team just feels like they are family.
+. As time passed we improved our methods and new members were added to GC. Some of these newer members also deserve special mentions. 
+They are <b className="footer-text">gghx, Archit Manas, Patrick Lu</b>. During the past year (2021), one person who joined the team, 
+who too deserves a special mention, is  <b className="footer-text">Vlad Spataru</b>. He was very energetic, 
+  like the initial the six founding members. An interesting experience with him was the OIMC contest (founded by Vlad) which flourished quite well.
+  (It now has a junior version, OJIMC, as well.) 
+Many members have joined GC in this years and I hope they too help GC the same way the mentioned members have. 
+The team has had various experiences and a great time in GC. Now, the GC team just feels like they are family.
  <br></br>
 
 
