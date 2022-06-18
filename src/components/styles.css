@@ -87,8 +87,8 @@
     color: var(--hello);
 }
 .hyperhead{
-  color: var(--name)
-
+  color: var(--name);
+}
 .lead{
     color: var(--description);
     font-size: xx-large;
