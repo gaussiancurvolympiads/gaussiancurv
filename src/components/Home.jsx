@@ -38,7 +38,7 @@ const Home = ({ darkMode }) => {
 <div align="center" class="text-secondary" >  
 <div align="center" class="lead">
  
-             <align="center"">   </> </div> 
+             <div>   </div> </div> 
            
 </div>
  
